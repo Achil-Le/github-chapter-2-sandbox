@@ -1,4 +1,4 @@
-# GitHub Chapter 2 - Sandbox 🚀 - Codédex
+# GitHub Chapter 2 - Sandbox 🚀-Platforme d'apprentissage
 
 Bienvenue dans mon dépôt de type "bac à sable" ! 
 
